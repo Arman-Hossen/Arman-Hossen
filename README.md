@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Arman Hossen</h1>
-<h3 align="center">As a programmer and web developer, I specialize in web development. With excellent development skills, I am currently working on web development and am seeking a job at an innovative company that will appreciate my creative work.</h3>
+<h3 align="center">As a programmer and web developer, I specialize in web development. With excellent development skills, I am currently working as a Juinor Software Developer at Cosmos Group.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="arman-hossen" /> </p>
 
