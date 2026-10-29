@@ -1,28 +1,78 @@
 <h1 align="center">Hi 👋, I'm Md Arman Hossen</h1>
-<h3 align="center">As a programmer and web developer, I specialize in web development. With excellent development skills, I am currently working as a Juinor Software Developer at Cosmos Group.</h3>
+<h3 align="center">Machine Learning Researcher · Product Analyst · Software Developer</h3>
+<p align="center">CSE graduate (CGPA 3.94/4.00, Top 1%) from Daffodil International University, building reliable AI systems for media and public-interest applications.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arman-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="arman-hossen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman-hossen" alt="arman-hossen" /></a> </p>
-
-- 🌱 I’m currently learning **Full-stack development.**
-
-- 💬 Ask me about **react, tailwind CSS, bootstrap**
-
-- 📫 How to reach me **arman74946@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-arman-hossen-9699b5227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-arman-hossen-9699b5227/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/arman.hossen.9619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arman.hossen.9619" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/arman_nur_tousif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arman_nur_tousif/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://arman-hossen.xyz/"><img src="https://img.shields.io/badge/Portfolio-arman--hossen.xyz-0e75b6?style=flat" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=arman-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-hossen&show_icons=true&locale=en&layout=compact" alt="arman-hossen" /></p>
+- 💼 **Product Analyst** at **United News of Bangladesh (Cosmos Group)**. I lead the redevelopment of B2C news platforms, build real-time data pipelines and REST APIs, and turn audience analytics into product decisions.
+- 🛠️ Previously a **Junior Software Developer** at the same company (2023–2025), working with Laravel, WordPress, OpenCart and Svelte.
+- 🔬 Researching **bilingual (Bangla–English) NLP, explainable AI and decision-support systems**.
+- 🎓 Preparing for **graduate study in applied AI and data science**.
+- ✍️ Also a feature writer and voice-over artist at UNB.
+- 📫 Reach me at **arman74946@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arman-hossen&show_icons=true&locale=en" alt="arman-hossen" /></p>
+## 🔬 Research
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arman-hossen&" alt="arman-hossen" /></p>
+- **Bilingual Harm-Related News Classification and Evidence-Aware Geographic Reporting in Bangladesh (2016–2026)**: *manuscript in preparation*
+  A reproducible Bangla–English NLP framework covering 125K+ news articles from 20 sources and 12 harm categories. The headline SVM reached a macro F1 of **0.983**.
+- **Enhancing Diagnostic Accuracy in Breast Cancer using Machine Learning**: *in preparation*
+  A hybrid ML and graph convolutional network framework with an interpretable, threshold-based decision-support system.
+- **Consumer Perception of Circular Fashion** (co-author, ongoing): stacking ensembles, SHAP and ANOVA.
+- **Municipal Waste Forecasting** (ongoing): ML forecasting on Dhaka North City Corporation data.
+
+📄 **Publication:** *Impact on GDP and the Stock Market during Pandemics or Epidemics of the 21st Century* (2023). [DOI: 10.47974/JIM-1533](https://doi.org/10.47974/JIM-1533)
+
+## 🚀 Selected Projects
+
+| Project | Role | Summary |
+|---|---|---|
+| [**Mubhir**](https://mubhir.ai/) | Project Lead | AI-driven test-prep platform for Saudi Qudrat/Tahsili exams, with personalized learning paths, image-based query resolution and 10,000+ AI-explained modules |
+| [**Carparkly**](https://carparkly.com/) | Backend Developer | Backend for a smart parking platform |
+
+## 🛠️ Skills
+
+**ML & Data**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn" alt="ML skills" />
+  &nbsp;NumPy · Pandas · scikit-learn · SHAP · ANOVA · statistical modeling & forecasting
+</p>
+
+**Web Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,php,react,svelte,tailwind,bootstrap,nodejs,express,laravel,wordpress" alt="Web skills" />
+</p>
+
+**Databases & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,c,java,git,github,linux,vscode" alt="Databases and tools" />
+</p>
+
+**Analytics & Delivery:** Google Analytics · SEO/SMM · data visualization · product analytics · Scrum/Agile
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://arman-hossen.xyz/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md-arman-hossen-9699b5227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.researchgate.net/profile/Md-Hossen-179" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="mailto:arman74946@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arman-hossen&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-hossen&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arman-hossen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
